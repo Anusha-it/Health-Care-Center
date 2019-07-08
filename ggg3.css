@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body
+{
+	background-image: url('https://i.gifer.com/26f7.gif');
+	background-size: cover;
+	background-repeat:repeat;
+}
+h1
+{
+	color:#14e4e8;
+}
